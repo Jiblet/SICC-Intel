@@ -12,7 +12,6 @@ const GOLD_SKULL = "5d235a5986f77443f6329bc6";
 const DOGTAG_BEAR = "59f32bb586f774757e1e8442";
 const DOGTAG_USEC = "59f32c3b86f77472a31742f0";
 
-
 class Mod
 {
 	constructor()
@@ -55,7 +54,6 @@ class Mod
 }
 
 module.exports.Mod = Mod;
-
 
 /*
 By default the containers allow:
